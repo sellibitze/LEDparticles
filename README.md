@@ -7,7 +7,7 @@ GPIO ports in advance.
 Between the particles in "waves" there is a repelling force proportional to
 the inverse of their squared distance. Sometimes one border particle induces
 an impulse to the system and you can see waves propagating and reflecting at
-the borders. Sometimes the particle change their color.
+the borders. Sometimes a particle changes its color.
 
 Just type "make" to build the program. The only requirement is an installed
 C++ compiler. You might want to edit the Makefile for debugging purposes.
